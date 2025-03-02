@@ -1,5 +1,5 @@
-# pos_go
-Atividade da Pós em Golang
+# Client-Server-API
+Exercício 01 da Pós em Golang
 
 Neste desafio vamos aplicar o que aprendemos sobre webserver http, contextos,
 banco de dados e manipulação de arquivos com Go.
